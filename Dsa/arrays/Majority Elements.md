@@ -1,5 +1,6 @@
-#bruteforece solution
+
 ```javascript
+#bruteforece solution
 
 /**
  * @param {number[]} arr
